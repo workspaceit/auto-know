@@ -1,0 +1,5 @@
+XSym
+0092
+74f8c08e84abf3254a81f77adb920524
+../../../../GooglePlaces/Frameworks/GooglePlaces.framework/Versions/A/Headers/GooglePlaces.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

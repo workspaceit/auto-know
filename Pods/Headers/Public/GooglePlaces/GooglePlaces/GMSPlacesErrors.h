@@ -1,0 +1,5 @@
+XSym
+0095
+407e5c67b5449ef6a77410ce7cabc4ba
+../../../../GooglePlaces/Frameworks/GooglePlaces.framework/Versions/A/Headers/GMSPlacesErrors.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

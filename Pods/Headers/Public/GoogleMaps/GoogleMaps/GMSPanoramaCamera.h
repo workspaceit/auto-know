@@ -1,0 +1,5 @@
+XSym
+0098
+e040a7be3a71e2e4db9db82ad1f25812
+../../../../GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Versions/A/Headers/GMSPanoramaCamera.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0101
+b5820f07fa79dd4a6751903f68cef820
+../../../../GooglePlaces/Frameworks/GooglePlaces.framework/Versions/A/Headers/GMSPlacePhotoMetadata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

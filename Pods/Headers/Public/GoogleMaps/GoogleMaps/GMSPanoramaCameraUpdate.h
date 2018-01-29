@@ -1,0 +1,5 @@
+XSym
+0104
+2edb9888aabfb1530f30cf6ce9ea178b
+../../../../GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Versions/A/Headers/GMSPanoramaCameraUpdate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

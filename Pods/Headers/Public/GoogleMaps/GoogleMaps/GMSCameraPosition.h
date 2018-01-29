@@ -1,0 +1,5 @@
+XSym
+0098
+9696a47d59270470337710ff057b171c
+../../../../GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Versions/A/Headers/GMSCameraPosition.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

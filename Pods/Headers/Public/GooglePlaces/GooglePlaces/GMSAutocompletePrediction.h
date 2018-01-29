@@ -1,0 +1,5 @@
+XSym
+0105
+6e1f389a1e5494da83e52f150c718c4f
+../../../../GooglePlaces/Frameworks/GooglePlaces.framework/Versions/A/Headers/GMSAutocompletePrediction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

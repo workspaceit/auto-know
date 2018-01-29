@@ -1,0 +1,5 @@
+XSym
+0093
+bba37527575ff0a1b5017747323701fe
+../../../../GooglePlaces/Frameworks/GooglePlaces.framework/Versions/A/Headers/GMSPlaceTypes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
